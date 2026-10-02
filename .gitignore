@@ -1,0 +1,11 @@
+# Salidas pesadas (se regeneran ejecutando el notebook; GitHub no acepta archivos > 100 MB)
+chile_limites_administrativos/
+
+# Python / Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# Sistema
+.DS_Store
+Thumbs.db
+.vscode/
